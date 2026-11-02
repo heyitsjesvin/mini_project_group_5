@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+# created automatically by extract(); the original CSV stays tracked
+raw_data/listings_berlin_raw_copy.csv

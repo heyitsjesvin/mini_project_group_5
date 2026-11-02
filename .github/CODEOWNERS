@@ -1,0 +1,8 @@
+# Replace the placeholder usernames and remove the leading '#' to get automatic review requests.
+# The lead is the default reviewer for everything.
+# *                                      @LEAD-USERNAME
+# /etl/member1_extract_and_structure.py  @MEMBER1-USERNAME
+# /etl/member2_missing_values.py         @MEMBER2-USERNAME
+# /etl/member3_invalid_and_outliers.py   @MEMBER3-USERNAME
+# /etl/member4_features.py               @MEMBER4-USERNAME
+# /etl/member5_reports_and_load.py       @MEMBER5-USERNAME
