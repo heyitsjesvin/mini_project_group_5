@@ -1,6 +1,7 @@
 """Member 4 - feature engineering, categories and ranking.
 
-Transformations: T8-T14.
+Transformations: T8-T14 (price features, host features, amenities count,
+review features, availability level, price rank and sorting).
 """
 import json
 
