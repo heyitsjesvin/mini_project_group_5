@@ -70,11 +70,11 @@ The final dataset is saved as `output/berlin_airbnb_analysis_ready.csv`.
 ## Team
 | Member | Name | GitHub | Part |
 |---|---|---|---|
-| 1 (lead) |  |  | Extract + structural cleaning |
-| 2 |  |  | Missing values |
-| 3 |  |  | Invalid values, outliers, validation |
-| 4 |  |  | Feature engineering |
-| 5 |  |  | Reports and load |
+| 1 | Jesvin JOHN |heyitsjesvin  | Extract + structural cleaning |
+| 2 | Praphuldev J | MrPraphul | Missing values |
+| 3 |Benitta Babu  |heythisbenittababu  | Invalid values, outliers, validation |
+| 4 | Lejan A S | lejan392 | Feature engineering |
+| 5 | Thomas Mathew |thomazmtw  | Reports and load |
 
 How we collaborate: [CONTRIBUTING.md](CONTRIBUTING.md) and [docs/GIT_WORKFLOW.md](docs/GIT_WORKFLOW.md).
 
