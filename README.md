@@ -70,7 +70,7 @@ The final dataset is saved as `output/berlin_airbnb_analysis_ready.csv`.
 ## Team
 | Member | Name | GitHub | Part |
 |---|---|---|---|
-| 1 | Jesvin JOHN |heyitsjesvin  | Extract + structural cleaning |
+| 1 | Jesvin John |heyitsjesvin  | Extract + structural cleaning |
 | 2 | Praphuldev J | MrPraphul | Missing values |
 | 3 |Benitta Babu  |heythisbenittababu  | Invalid values, outliers, validation |
 | 4 | Lejan A S | lejan392 | Feature engineering |
